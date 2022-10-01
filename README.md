@@ -6,14 +6,15 @@ An applicatoin that writes and saves notes. Uses Express.js for a back end that 
 
 ## Getting Started
 
+Enter your notes into the text field, and save them by clicking on the button. Notes will show up on the left side and can be removed by the user.
 
 ### Dependencies
 
-
+run 'npm i' to install dependancies.
 
 ### Executing program
 
-
+Application is hosted on heroku.
 
 ## Authors
 
@@ -32,6 +33,3 @@ LinkedIn: https://www.linkedin.com/in/matthew-hendricks-029a25a8/
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ![screen capture of site](https://github.com/hale-bopp97/note_taker/blob/main/Develop/public/assets/images/Capture1.JPG?raw=true)
-
-
-![screen capture of site](https://github.com/hale-bopp97/note_taker/blob/main/Develop/public/assets/images/Capture2.JPG?raw=true)
