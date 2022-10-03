@@ -14,7 +14,7 @@ run 'npm i' to install dependancies.
 
 ### Executing program
 
-Application is hosted on heroku.
+Application is hosted on heroku at: https://express-note-taker-module11.herokuapp.com/
 
 ## Authors
 
